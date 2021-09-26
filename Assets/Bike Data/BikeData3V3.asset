@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7773bec29c788a946bffb28f8e7adfd6, type: 3}
+  m_Name: BikeData3V3
+  m_EditorClassIdentifier: 
+  speed: 45
+  acceleration: 30
+  handling: 30
+  bikeImage: {fileID: 21300000, guid: 122af177dfd35134389a529f109dd9a1, type: 3}
+  bikePrefab: {fileID: 7282673094137116964, guid: 5ae6cd2b46f92b945b3fdf605d739287, type: 3}
